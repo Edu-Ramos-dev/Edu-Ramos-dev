@@ -1,7 +1,7 @@
 <h1> Welcome to my profile!</h1> 
 <br>
 <div>
-<img src="gif/code1.gif" alt="coding" align=center style="height: 200px; width:250px;"/>
+<img src="code1.gif" alt="coding" align=center style="height: 200px; width:250px;"/>
 </div>
 <br>
 
